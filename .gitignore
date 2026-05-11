@@ -5,7 +5,8 @@ __pycache__/
 .venv/
 venv/
 .pytest_cache/
-
+.omc
+.claude
 # Lab artifacts (generated)
 benchmarks/*.csv
 benchmarks/*.json
